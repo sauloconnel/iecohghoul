@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aigheerae.bhpkorsak.pl/sitemap.xml
